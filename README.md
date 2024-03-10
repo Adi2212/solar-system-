@@ -10,7 +10,7 @@
 
 - **Educational Insight** Gain a deeper understanding of our solar system's composition, planetary order, and relative distances through this educational visualization. 📚🌌
 
-## Live Demo: [Solar View]()
+## Live Demo: [Solar View](https://adi2212.github.io/solar-system-/)
 
 ## Usage:
 
